@@ -1,0 +1,30 @@
+/*!
+ * Start Bootstrap - Shop Homepage (https://startbootstrap.com/template-overviews/shop-homepage)
+ * Copyright 2013-2019 Start Bootstrap
+ * Licensed under MIT (https://github.com/BlackrockDigital/startbootstrap-shop-homepage/blob/master/LICENSE)
+ */
+body {
+  padding-top: 56px;
+}
+
+.formPage{
+  height: 80vh;
+  /* background: #d4d4d4; */
+}
+
+form{
+  padding: 20px;
+}
+a{
+  color:#2f1b85;
+}
+a:hover{
+  text-decoration: none;
+  color: #5b38db;
+}
+.card{
+  background: linear-gradient(to bottom, #e2e2e2 0%,#dbdbdb 50%,#d1d1d1 51%,#fefefe 100%);
+}
+.card:hover{
+  border:1px solid #871c9c;
+}
